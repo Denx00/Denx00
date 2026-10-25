@@ -1,6 +1,6 @@
 # Hi, I'm Rohan 👋
 
-Senior Backend Engineer working in **Go** on high-throughput trading systems at Axis Direct (Chennai, India).
+Senior Backend Engineer working in **Go** on high-throughput trading systems at Axis Direct (India).
 
 **What I work on:** Go microservices (REST/gRPC), Kafka event-driven systems, Redis/DynamoDB caching, PostgreSQL performance, and OpenTelemetry observability on Kubernetes/AWS.
 
